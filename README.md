@@ -4,5 +4,5 @@ Goal: Optimize manatees transported using brute force or dynamic programming
 
 Run from terminal with command: 
 - go build main.go (Windows, MacOs, Linux)
-- ./main (MacOS, Linux)
-- main.exe (Windows)
+- ./main < input.txt (MacOS, Linux)
+- main.exe < input.txt (Windows)
