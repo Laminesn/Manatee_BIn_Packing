@@ -1,9 +1,8 @@
 package main
 
 /*
- * Author:  Lamine Djibo, ldjibo2016@my.fit.edu
- * Course:  CSE 4251, Fall 2023
- * Project: Project #2, Manatee Transportation
+ * Author:  Lamine Deen
+ * Project: Manatee Transportation
  */
 
 import (
